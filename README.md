@@ -1,2 +1,0 @@
-# ANDI-DATABASE
-Cihuy
